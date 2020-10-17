@@ -1,4 +1,4 @@
-# study-c-K-R-book-exercises# Study С - "C Programming Language" book exercises solution
+# Study С - "C Programming Language" book exercises solution
 
 ## Book info
 [C Programming Language, 2nd Edition by Brian W. Kernighan, Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
