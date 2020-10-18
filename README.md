@@ -5,7 +5,7 @@
 
 ## Content
 * Chapter 1. A Tutorial Introduction
-	* [Exercise 1-1]()
+	* [Exercise 1-1](https://github.com/kudraem/study-c-KnR-book-exercises/blob/main/chapter_1/exercise_1_1/solution.c)
 	* [Exercise 1-2]()
 	* [Exercise 1-3]()
 	* [Exercise 1-4]()
